@@ -1,4 +1,4 @@
-TEST 1 
+
 
 class Bike
     def working?
